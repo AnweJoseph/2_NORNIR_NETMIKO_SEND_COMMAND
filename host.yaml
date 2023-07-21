@@ -1,0 +1,11 @@
+---
+
+SW2:
+  hostname: "192.168.164.136"
+  groups:
+    - cisco
+
+SW3:
+  hostname: "192.168.164.138"
+  groups:
+    - cisco
